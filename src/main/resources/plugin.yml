@@ -1,0 +1,5 @@
+name: FrozenMobs
+main: frozenmobs.Main
+version: 0.1
+author: Simon A
+description: A plugin that allows users to deploy frozen mobs
